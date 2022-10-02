@@ -240,7 +240,7 @@ a:hover {
     }
 }
 
-/* Footer Responsive */
+/* Footer Responsive 
 @media(max-width: 767px){
     .footer .container .quick-links .menu {
         display: block;
@@ -253,7 +253,7 @@ a:hover {
     .footer .container .quick-links .menu li {
         display: block;
     }
-}
+} */
 
 /* About */
 
